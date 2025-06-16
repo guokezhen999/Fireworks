@@ -54,4 +54,4 @@
 
 #### **代码仓库：**
 
-[您的 GitHub/Gitee 仓库链接](https://github.com/guokezhen999/Fireworks)
+[您的 GitHub 仓库链接](https://github.com/guokezhen999/Fireworks)
