@@ -50,8 +50,8 @@
 
 #### **项目预览：**
 
-![项目演示 GIF](images/render.gif)  
+![项目演示 GIF](./images/render.gif)  
 
 #### **代码仓库：**
 
-[您的 GitHub/Gitee 仓库链接](https://github.com/your-username/your-repo)
+[您的 GitHub/Gitee 仓库链接](https://github.com/guokezhen999/Fireworks)
